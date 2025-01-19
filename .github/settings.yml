@@ -1,0 +1,25 @@
+repository:
+  name: fullstack-cicd-demo
+  description: 🚀 Production-ready fullstack application with React, FastAPI, and modern CI/CD practices. Features TypeScript, Kubernetes, GitHub Actions, and comprehensive testing
+  homepage: https://github.com/Rishirandhawa/fullstack-cicd-demo
+  topics:
+    - react
+    - typescript
+    - fastapi
+    - python
+    - docker
+    - kubernetes
+    - cicd
+    - github-actions
+    - devops
+    - microservices
+    - testing
+    - jest
+    - pytest
+    - postgresql
+    - redux
+    - tailwindcss
+    - security
+    - web-development
+    - fullstack
+    - starter-template
